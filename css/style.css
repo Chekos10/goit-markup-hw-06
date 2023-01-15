@@ -630,6 +630,7 @@ img {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  min-width: 264px;
 }
 .tittle-social {
   font-weight: 600;
